@@ -3,7 +3,7 @@
 0, 7, 8, -2, -2 -> 2
 1, -7, 567, 89, 223-> 3 */
 
-Console.WriteLine("Enter the number of entered numbers: ");
+Console.WriteLine("Enter the amount of input numbers: ");
 int number = Convert.ToInt32(Console.ReadLine());
 
 
